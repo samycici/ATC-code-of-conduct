@@ -1,6 +1,6 @@
 # Código de conduta do ATC - Agile Testers Conference
 
-O ATC - Agile Testers Conference é um evento sem fins lucrativos cujo principal objetivo é promover a troca de experiências entre os profissionais de Teste de Software e Qualidade do Brasil.
+O ATC - Agile Testers Conference é um evento sem fins lucrativos cujo principal objetivo é promover a troca de experiências entre os profissionais de Teste e Qualidade de Software do Brasil.
 
 Este Código de Conduta será aplicado para todos enquanto participantes desse evento para proteger o público de danos e perigos morais.
 
