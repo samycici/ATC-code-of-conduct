@@ -12,7 +12,7 @@ We understand harassment as:
 * Offensive comments, verbally or electronic, related to the personal characteristics such as race origin, sexual orientation, gender identity, and also images/memes with sexual content, racist, homophobic and with any sort discrimination content.
 * Intimidation and aggressive behavior
 * Bullying;
-* Staking;
+* Stalking;
 * Photos or recordings that can generate embarrassment
 * Interruption of the speaker, side chats, side reunions or any sort of activity that can interfere with the speaker talk.
 * Unsolicited Physical contact or 
